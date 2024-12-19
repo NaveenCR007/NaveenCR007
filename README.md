@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveencr007&label=Profile%20views&color=0e75b6&style=flat" alt="naveencr007" /> </p>
 
-- 🌱 I’m currently learning **DSA in Java,Javascript**
+- 🌱 I’m currently learning **DSA in Java, Frontend**
 
 - 💬 Ask me about **DSA, HTML, CSS**
 
