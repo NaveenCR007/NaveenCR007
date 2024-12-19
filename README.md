@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Naveen BS</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding Nerd" width="500" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveencr007&label=Profile%20views&color=0e75b6&style=flat" alt="naveencr007" /> </p>
 
@@ -14,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/naveena-b-s-3a71a7313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveena bs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naveena-b-s-3a71a7313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveena bs" height="30" width="40" /></a>
 <a href="[https://www.leetcode.com/https://leetcode.com/u/naveen_____007/](https://leetcode.com/u/Naveen_____007/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/naveen_____007/" height="30" width="40" /></a>
 <a href="https://discord.gg/naveen_0076540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="naveen_0076540" height="30" width="40" /></a>
 </p>
