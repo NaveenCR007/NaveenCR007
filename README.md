@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveencr007&label=Profile%20views&color=0e75b6&style=flat" alt="naveencr007" /> </p>
 
-- 🌱 I’m currently learning **DSA in Java, Frontend**
+- 🌱 I’m currently learning **DSA in Java, Backend**
 
-- 💬 Ask me about **DSA, HTML, CSS**
+- 💬 Ask me about **DSA, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **naveenbs135@gmail.com**
 
