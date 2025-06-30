@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/b0d12c640e969f1cff1c70bb51c8e1eedfee5f546b1b061c9d1a9a91e70d15c3/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 
 <h1 align="center">Hi 👋, I'm Naveen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding Nerd" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveencr007&label=Profile%20views&color=0e75b6&style=flat" alt="naveencr007" /> </p>
