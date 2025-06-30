@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveencr007&label=Profile%20views&color=0e75b6&style=flat" alt="naveencr007" /> </p>
 
-- 🌱 I’m currently learning **React, Backend**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **DSA, Frontend, TailwindCSS, MongoDB**
 
